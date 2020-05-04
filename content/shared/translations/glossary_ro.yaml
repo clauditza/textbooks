@@ -3,9 +3,9 @@
 # ==============================================================================
 
 absolute-value:
-  title: Absolute Value
-  text: The __absolute value__ of a number is its distance from 0 on the number 1
-    line. It makes negative numbers positive, but leaves positive numbers
+  title: Valoare Absolută
+  text: __Valoarea absolută__ a unui numar este distanța dintre acesta si 0. 
+    It makes negative numbers positive, but leaves positive numbers
     unchanged. The absolute value of `x` is written as `|x|`. For example,
     `|-5| = 5` and `|3| = 3`.
   # The absolute value of a number is the distance between the number and the
@@ -13,13 +13,13 @@ absolute-value:
   # complex number and the magnitude of a vector.
 
 acute-angle:
-  title: Acute angle
-  text: An __acute angle__ is an angle of size less than 90°.
+  title: Unghi ascuțit
+  text: Un __unghi ascuțit__ este un unghi de mărime mai mică de 90°.
 
 acute-triangle:
-  title: Acute triangle
-  text: In an __acute triangle__, all three interior angles are _acute_
-    (less than 90°).
+  title: Triunghi ascuțit
+  text: Într-un __triunghi ascuțit__, toate cele trei unghiuri sunt _ascuțite_
+    (mai mici ca 90°).
   link: /course/triangles/properties#classification
 
 adic:
@@ -30,14 +30,14 @@ adic:
     power of _n_.
 
 adjacent-angles:
-  title: Adjacent angles
-  text: Two angles are __adjacent__ if they share a common side and vertex but
-    do not overlap. The word _adjacent_ simply means “neighbouring”.
+  title: Unghiuri adiacente
+  text: Două unghiuri sunt __adiacente__ dacă au vârful și o latură în comun dar
+    nu se suprapun. Cuvăntul _adiacent_ înseamnă pur și simplu “în vecinătate”.
 
 aleph-zero:
   title: Aleph Zero
-  text: Aleph Zero, written using the Hebrew letter א‎, is the cardinality of
-    a countably infinite set (e.g. the natural numbers).
+  text: Aleph Zero, scris folosindu-se litera ebraică א‎, este cardinalitatea unei
+    mulțimi infinite numarabile (de exemplu, numerele naturale).
 
 algebraic-numbers:
   title: Algebraic Numbers
